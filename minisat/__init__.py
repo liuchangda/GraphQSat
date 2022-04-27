@@ -25,7 +25,7 @@
 # OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 # WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-from .minisat.gym.MiniSATEnv import gym_sat_Env
+from minisat.minisat.gym.MiniSATEnv import gym_sat_Env
 
 from gym.envs.registration import register
 

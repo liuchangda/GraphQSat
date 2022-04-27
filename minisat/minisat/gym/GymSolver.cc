@@ -31,7 +31,7 @@ OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWA
 #include "minisat/utils/Options.h"
 #include "minisat/core/Dimacs.h"
 #include "minisat/simp/SimpSolver.h"
-#include "minisat/gym/GymSolver.h"
+#include "minisat/minisat/gym/GymSolver.h"
 
 using namespace Minisat;
 

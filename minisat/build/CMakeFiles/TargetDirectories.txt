@@ -1,0 +1,10 @@
+/home/zhang/桌面/liuchang/GraphQSat/minisat/build/CMakeFiles/install/strip.dir
+/home/zhang/桌面/liuchang/GraphQSat/minisat/build/CMakeFiles/install/local.dir
+/home/zhang/桌面/liuchang/GraphQSat/minisat/build/CMakeFiles/edit_cache.dir
+/home/zhang/桌面/liuchang/GraphQSat/minisat/build/CMakeFiles/minisat_simp.dir
+/home/zhang/桌面/liuchang/GraphQSat/minisat/build/CMakeFiles/install.dir
+/home/zhang/桌面/liuchang/GraphQSat/minisat/build/CMakeFiles/list_install_components.dir
+/home/zhang/桌面/liuchang/GraphQSat/minisat/build/CMakeFiles/rebuild_cache.dir
+/home/zhang/桌面/liuchang/GraphQSat/minisat/build/CMakeFiles/minisat_core.dir
+/home/zhang/桌面/liuchang/GraphQSat/minisat/build/CMakeFiles/minisat-lib-shared.dir
+/home/zhang/桌面/liuchang/GraphQSat/minisat/build/CMakeFiles/minisat-lib-static.dir

@@ -41,7 +41,6 @@ VAR_ID_IDX = (
     0  # put 1 at the position of this index to indicate that the node is a variable
 )
 
-
 class gym_sat_Env(gym.Env):
     def __init__(
         self,
